@@ -1,4 +1,4 @@
-<h1> CHALLENGE: ONE Data Science - Análise da Imigração para o Canadá (1980-2013) </h1>
+<h1> Exercícios: ONE Data Science - Análise da Imigração para o Canadá (1980-2013) </h1>
 
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=blue&style=for-the-badge&logo=python"/>
@@ -81,10 +81,10 @@ O projeto gera diversas visualizações para ilustrar as tendências de imigraç
 ![Grafico2](./Gráfico_Top_10.png)
 
 - Gráfico de barras dos 10 países com maior número de imigrantes (utilizando Seaborn).
-![Grafico2](./Grafico_Interativo.mp4)
+![Grafico3](./Grafico_Interativo.gif)
 
 - Gráficos de linha interativos e animados (utilizando Plotly).
-![Grafico3](./Grafico_Brasil_Argentina.mp4)
+![Grafico4](./Grafico_Brasil_Argentina.gif)
 
 
 ## Contribuições

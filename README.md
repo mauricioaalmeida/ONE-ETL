@@ -70,20 +70,19 @@ O projeto é apresentado como um notebook Jupyter (ou Google Colab), onde as eta
 
 O projeto gera diversas visualizações para ilustrar as tendências de imigração, incluindo:
 
-- Gráfico de linha da imigração do Brasil para o Canadá.
 - Gráfico de barras dos países com maior imigração total para o Canadá.
 ![Grafico0](Gráfico_Top_10.png)
 
 - Gráfico de linha comparando a imigração do Brasil e da Argentina para o Canadá.
 ![Gráfico1](./Imigracao_Canada_Bra+Arg.png)
 
-- Subplots mostrando as tendências de imigração de múltiplos países.
+- Gráfico de barras mostrando os 10 países com maior número de imigrantes.
 ![Grafico2](./Gráfico_Top_10.png)
 
-- Gráfico de barras dos 10 países com maior número de imigrantes (utilizando Seaborn).
+- Gráfico interativo mostrando as tendências de imigração de Países da América do Sul (utilizando Seaborn).
 ![Grafico3](./Grafico_Interativo.gif)
 
-- Gráficos de linha interativos e animados (utilizando Plotly).
+- Gráficos de linhas interativos e animados (utilizando Plotly).
 ![Grafico4](./Grafico_Brasil_Argentina.gif)
 
 
@@ -93,7 +92,7 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 
 <h2>✔️ Técnicas e tecnologias utilizadas</h2>
 
-   - Para realizar a análise, foi utilizado o ambiente do Google Colab, com a linguagem Python e as bibliotecas Pandas, Matplotlib, Folium entre outras. 
+   - Para realizar a análise, foi utilizado o ambiente do Google Colab, com a linguagem Python e as bibliotecas Pandas, Matplotlib, Seaborn e Plotly. 
 <p></p>
 <p></p>
 <h2>📁 Acesso ao projeto</h2>

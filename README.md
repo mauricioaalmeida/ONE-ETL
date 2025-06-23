@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=blue&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=blue&style=for-the-badge&logo=streamlit"/>
   <img src="https://img.shields.io/static/v1?label=&message=Pandas&color=blue&style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/static/v1?label=&message=matplotlib&color=blue&style=for-the-badge&logo=matplotlib"/>
   <img src="https://img.shields.io/static/v1?label=&message=seaborn&color=blue&style=for-the-badge&logo=seaborn"/>
@@ -41,6 +42,7 @@ O principal objetivo deste projeto é visualizar e analisar as tendências de im
 - Matplotlib
 - Seaborn
 - Plotly
+- Streamlit
 
 ## Estrutura do Projeto
 
@@ -65,6 +67,12 @@ O projeto é apresentado como um notebook Jupyter (ou Google Colab), onde as eta
 3.  Execute as células sequencialmente para reproduzir a análise e as visualizações.
 
 **Nota:** Certifique-se de ter as bibliotecas Python necessárias instaladas (pandas, numpy, matplotlib, seaborn, plotly). Se estiver usando Google Colab, a maioria dessas bibliotecas já estará disponível.
+
+## Versão em Streamlit
+
+- Uma versão dos principais gráficos foi realizada com o Streamlit e incluída no arquivo [Canada.py](./canada.py)
+
+![StreamlitGif](./Stremlit_Canada.gif)
 
 ## Visualizações Chave
 
@@ -92,7 +100,8 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 
 <h2>✔️ Técnicas e tecnologias utilizadas</h2>
 
-   - Para realizar a análise, foi utilizado o ambiente do Google Colab, com a linguagem Python e as bibliotecas Pandas, Matplotlib, Seaborn e Plotly. 
+   - Para realizar a análise, foi utilizado o ambiente do Google Colab, com a linguagem Python e as bibliotecas Pandas, Matplotlib, Seaborn e Plotly.
+   - Para a versão interativa foi utilizado o VSCode e o Streamlit.
 <p></p>
 <p></p>
 <h2>📁 Acesso ao projeto</h2>

@@ -72,26 +72,29 @@ O projeto é apresentado como um notebook Jupyter (ou Google Colab), onde as eta
 
 - Uma versão dos principais gráficos foi realizada com o Streamlit e incluída no arquivo [Canada.py](./canada.py)
 
-![StreamlitGif](./Stremlit_Canada.gif)
+![StreamlitGif](./assets/Stremlit_Canada.gif)
 
 ## Visualizações Chave
 
 O projeto gera diversas visualizações para ilustrar as tendências de imigração, incluindo:
 
+- Gráfico de barras dos países da América do Sul com maior imigração total para o Canadá.
+![Grafico0](./assets/Gráfico_America_sul.png)
+
 - Gráfico de barras dos países com maior imigração total para o Canadá.
-![Grafico0](Gráfico_Top_10.png)
+![Grafico1](./assets/Gráfico_Top_10.png)
 
 - Gráfico de linha comparando a imigração do Brasil e da Argentina para o Canadá.
-![Gráfico1](./Imigracao_Canada_Bra+Arg.png)
+![Gráfico2](./assets/Imigracao_Canada_Bra+Arg.png)
 
 - Gráfico de barras mostrando os 10 países com maior número de imigrantes.
-![Grafico2](./Gráfico_Top_10.png)
+![Grafico3](./assets/Gráfico_Top_10.png)
 
 - Gráfico interativo mostrando as tendências de imigração de Países da América do Sul (utilizando Seaborn).
-![Grafico3](./Grafico_Interativo.gif)
+![Grafico4](./assets/Grafico_Interativo.gif)
 
 - Gráficos de linhas interativos e animados (utilizando Plotly).
-![Grafico4](./Grafico_Brasil_Argentina.gif)
+![Grafico5](./assets/Grafico_Brasil_Argentina.gif)
 
 
 ## Contribuições

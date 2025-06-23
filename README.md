@@ -96,6 +96,8 @@ O projeto gera diversas visualizações para ilustrar as tendências de imigraç
 - Gráficos de linhas interativos e animados (utilizando Plotly).
 ![Grafico5](./assets/Grafico_Brasil_Argentina.gif)
 
+- Mapa da imigração para o Canadá usando Plotly ScatterGeo.
+![Gráfico6](./assets/Imigracao_mapa.jpg)
 
 ## Contribuições
 
